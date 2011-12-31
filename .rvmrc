@@ -1,0 +1,4 @@
+rvm_gemset_create_on_use_flag=1
+rvm jruby-1.6.5
+rvm --create use jruby-1.6.5@jrubytest
+

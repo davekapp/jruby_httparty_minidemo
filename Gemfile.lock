@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bouncy-castle-java (1.5.0146.1)
+    httparty (0.8.1)
+      multi_json
+      multi_xml
+    jruby-openssl (0.7.4)
+      bouncy-castle-java
+    multi_json (1.0.4)
+    multi_xml (0.4.1)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  httparty
+  jruby-openssl
